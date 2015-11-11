@@ -28,6 +28,7 @@ Extra:
 1. Choice of multiple audio visualizations
 2. Allow user to change colour of visualization 
 3. Allow user to change framrate of visualization
+
 =======
 # OOP_Assignment1
 OOP DT228 Assignment
