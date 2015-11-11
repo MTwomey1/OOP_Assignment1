@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DT228/2 Object Orientated Programming Assignment 1
 Mark Twomey
 C14337401
@@ -27,3 +28,7 @@ Extra:
 1. Choice of multiple audio visualizations
 2. Allow user to change colour of visualization 
 3. Allow user to change framrate of visualization
+=======
+# OOP_Assignment1
+OOP DT228 Assignment
+>>>>>>> cf569ed07354dce72cf3ce8f6842824068aefcaa
