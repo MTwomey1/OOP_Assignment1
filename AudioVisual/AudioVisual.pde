@@ -11,6 +11,12 @@ AudioInput input;
 
 void setup()
 {
+  // Read in Lyric Files
+  String[] lyrics1=loadStrings("PalmTreesLyrics.txt");
+  String[] lyrics2=loadStrings("MRAZLyrics.txt");
+  String[] lyrics3=loadStrings("NoReligionLyrics.txt"); 
+  
+  // Read in mp3 file
   frameRate(20);
   size(2048, 1024);
   smooth();
