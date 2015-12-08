@@ -1,3 +1,4 @@
+// Somg: No Religion
 class Song3
 {
   PImage image;
@@ -17,6 +18,7 @@ int x = 1650;// X Position
 
 void display()
 {
+  // Metadata display
   image(image, 1500, 150, 300, 150);
   int y = ys;
   textFont(createFont("Serif", 20));
@@ -27,7 +29,7 @@ void display()
   text("Album: " + meta.album(), x, y+=yi);
   text("Genre: " + meta.genre(), x, y+=yi);
   
-
+  // Media player
   if(mousePressed == true)
   {
     if(mouseX > 1500 && mouseX < 1587 && mouseY > 152 && mouseY < 296)

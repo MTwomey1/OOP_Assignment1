@@ -1,3 +1,4 @@
+// Song: MRAZ
 class Song1
 {
   PImage image;
@@ -17,6 +18,7 @@ int x = 200;// X Position
 
 void display()
 {
+  // Metadata display
   image(image, 50, 150, 300, 150);
   int y = ys;
   textFont(createFont("Serif", 20));
@@ -27,7 +29,7 @@ void display()
   text("Album: " + meta.album(), x, y+=yi);
   text("Genre: " + meta.genre(), x, y+=yi);
   
- 
+   // Media player
   if(mousePressed == true)
   {
     if(mouseX > 52 && mouseX < 132 && mouseY > 152 && mouseY < 296)

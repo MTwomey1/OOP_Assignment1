@@ -1,3 +1,4 @@
+// Song: Palm Trees
 class Song2
 {
   PImage image;
@@ -17,6 +18,7 @@ int x = 950;// X Position
 
 void display()
 {
+  // Metadata display
   image(image, 800, 150, 300, 150);
   int y = ys;
   textFont(createFont("Serif", 20));
@@ -27,7 +29,7 @@ void display()
   text("Album: Better off DEAD" + meta.album(), x, y+=yi);
   text("Genre: Rap & Hip-Hop" + meta.genre(), x, y+=yi);
   
-  
+  // Media player
   if(mousePressed == true)
   {
     if(mouseX > 800 && mouseX < 887 && mouseY > 152 && mouseY < 296)

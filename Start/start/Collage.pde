@@ -1,3 +1,4 @@
+// To show 3 picture on history screen
 class Collage
 {
   PImage image1, image2, image3, image4;

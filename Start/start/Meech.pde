@@ -1,3 +1,4 @@
+// Group member Meech
 class Meech
 {
   PImage image;
@@ -5,6 +6,7 @@ class Meech
   
   Meech()
   {
+    // Loading files
     image = loadImage("member1.jpg");
     audio = minim.loadFile("voice1.mp3");
   }

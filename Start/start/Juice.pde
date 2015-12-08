@@ -1,3 +1,4 @@
+// Group member Juice
 class Juice
 {
   PImage image;
@@ -5,6 +6,7 @@ class Juice
   
   Juice()
   {
+    // Loading files
     image = loadImage("member2.jpg");
     audio = minim.loadFile("voice2.mp3");
   }

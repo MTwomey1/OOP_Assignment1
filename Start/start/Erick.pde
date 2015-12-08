@@ -1,3 +1,4 @@
+// Group member Erick
 class Erick
 {
   PImage image;
@@ -5,6 +6,7 @@ class Erick
   
   Erick()
   {
+    // Loading files
     image = loadImage("member3.jpg");
     audio = minim.loadFile("voice3.mp3");
   }
