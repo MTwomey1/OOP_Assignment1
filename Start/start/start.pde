@@ -37,10 +37,10 @@ void setup()
   size(1901, 972, P3D);
 
   // Load images here to avoid memory problems
-  startscreen = loadImage("C:/Users/Mark/Google Drive/DT228/2nd Year/Semester 1/Object Orientated Programming/Assignment 1/Other/Images/home3.png");
-  members = loadImage("C:/Users/Mark/Google Drive/DT228/2nd Year/Semester 1/Object Orientated Programming/Assignment 1/Other/Images/members.jpg");
-  equalizer = loadImage("C:/Users/Mark/Google Drive/DT228/2nd Year/Semester 1/Object Orientated Programming/Assignment 1/Other/Images/equalizer.jpg");
-  history = loadImage("C:/Users/Mark/Google Drive/DT228/2nd Year/Semester 1/Object Orientated Programming/Assignment 1/Other/Images/history2.jpg");
+  startscreen = loadImage("home3.png");
+  members = loadImage("members.jpg");
+  equalizer = loadImage("equalizer.jpg");
+  history = loadImage("history2.jpg");
 
 } // End void Setup()
 
