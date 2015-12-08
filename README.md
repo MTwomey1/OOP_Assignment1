@@ -6,6 +6,14 @@ C14337401
 ===================================
 Flatbush Zombies Visualizer Project
 ===================================
+![alt tag](https://github.com/MTwomey1/OOP_Assignment1/blob/master/Screenshots/1.PNG)
+![alt tag](https://github.com/MTwomey1/OOP_Assignment1/blob/master/Screenshots/2.PNG)
+![alt tag](https://github.com/MTwomey1/OOP_Assignment1/blob/master/Screenshots/3.PNG)
+![alt tag](https://github.com/MTwomey1/OOP_Assignment1/blob/master/Screenshots/4.PNG)
+![alt tag](https://github.com/MTwomey1/OOP_Assignment1/blob/master/Screenshots/5.PNG)
+![alt tag](https://github.com/MTwomey1/OOP_Assignment1/blob/master/Screenshots/6.PNG)
+![alt tag](https://github.com/MTwomey1/OOP_Assignment1/blob/master/Screenshots/7.PNG)
+
 
 About:
 ------
